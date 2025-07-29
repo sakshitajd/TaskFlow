@@ -1,5 +1,5 @@
 # TaskFlow 
-A To-Do list is a simple yet powerful application that allows users to organize tasks by adding, editing, marking as complete, and deleting them. Below is a brief description of how a To-Do list can be implemented using HTML, CSS, and JavaScript:
+A TaskFlow is a simple yet powerful application that allows users to organize tasks by adding, editing, marking as complete, and deleting them. Below is a brief description of how a To-Do list can be implemented using HTML, CSS, and JavaScript:
 
 ## Features
 - Users can add new tasks to the list.
